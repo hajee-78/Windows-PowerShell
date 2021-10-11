@@ -9,6 +9,4 @@ It is always recommended to start PowerShell with elevated permission to gain Ad
 
 ![image](https://user-images.githubusercontent.com/55215524/136864038-0d1ee1c2-1c05-46c0-84f5-de0d3afc597b.png)
 
-Type the following to know the version of PowerShell installed in your system.
-
-$PSVersiontable 
+3. 
