@@ -1,4 +1,4 @@
-# WinPowerShell
+# Windows-PowerShell
 1. What is PowerShell?
 
 PowerShell is a task automation and configuration management program from Microsoft, consisting of a command-line shell and the associated scripting language which is built on .NET Core formerly developed as a windows component only.
