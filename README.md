@@ -17,9 +17,15 @@ PowerShell's execution policy is a safety feature that controls the conditions u
 
 ![image](https://user-images.githubusercontent.com/55215524/137040679-a47971f9-60ff-495f-bb23-7d912801d1d6.png)
 
-Default Execution Policies.
+To get all execution policies in the current session
 
-![image](https://user-images.githubusercontent.com/55215524/137037397-5690f234-1007-4478-b1ed-801ba625bdf0.png)
+Get-ExecutionPolicy -List
+
+![image](https://user-images.githubusercontent.com/55215524/137041475-785576cd-06c7-4dca-91a6-7b20dc91afe0.png)
+
+
+
+
 
 
 
