@@ -13,6 +13,8 @@ It is always recommended to start PowerShell with elevated permission to gain Ad
 
 PowerShell's execution policy is a safety feature that controls the conditions under which PowerShell loads configuration files and runs scripts. This feature helps prevent the execution of malicious scripts.
 
+![image](https://user-images.githubusercontent.com/55215524/137039957-31c9f09f-d0f3-4690-81a0-8471cdd3ec0d.png)
+
 Default Execution Policies.
 
 ![image](https://user-images.githubusercontent.com/55215524/137037397-5690f234-1007-4478-b1ed-801ba625bdf0.png)
