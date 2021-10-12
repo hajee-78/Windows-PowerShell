@@ -23,6 +23,11 @@ Get-ExecutionPolicy -List
 
 ![image](https://user-images.githubusercontent.com/55215524/137041475-785576cd-06c7-4dca-91a6-7b20dc91afe0.png)
 
+To set the execution policy 
+
+Set-ExecutionPolicy -ExecutionPolicy “ExecutionPolicy” -Scope “Scope”
+
+
 
 
 
