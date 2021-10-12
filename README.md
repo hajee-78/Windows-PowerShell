@@ -15,8 +15,7 @@ PowerShell's execution policy is a safety feature that controls the conditions u
 
 Default Execution Policies.
 
-Windows Clients	Restricted
-Windows Servers 	RemoteSigned
-![image](https://user-images.githubusercontent.com/55215524/137037320-20f255d1-5355-43cd-b0ab-b55f82b97908.png)
+![image](https://user-images.githubusercontent.com/55215524/137037397-5690f234-1007-4478-b1ed-801ba625bdf0.png)
+
 
 
