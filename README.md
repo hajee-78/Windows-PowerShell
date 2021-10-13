@@ -30,6 +30,7 @@ Set-ExecutionPolicy -ExecutionPolicy “ExecutionPolicy” -Scope “Scope”
 4. To get the current PowerShell version type the following commands.
 
 Local Computer -  $PSVersionTable
+
 Remote Computer - Invoke-Command -Computername client001 -Scriptblock {$PSVersionTable.psversion}
 
 
