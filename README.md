@@ -29,32 +29,31 @@
 
 4. To get the current PowerShell version type the following commands.
 
-    Local Computer -  $PSVersionTable
-
+    Local Computer -  $PSVersionTable <br />
     Remote Computer - Invoke-Command -Computername client001 -Scriptblock {$PSVersionTable.psversion}
 
 5. Powershell data types.
 
-    [string]    Fixed-length string of Unicode characters /n
-    [char]      A Unicode 16-bit character /n
-    [byte]      An 8-bit unsigned character /n
-    [int]       32-bit signed integer /n
-    [long]      64-bit signed integer /n
-    [bool]      Boolean True/False value /n
-    [decimal]   A 128-bit decimal value /n
-    [single]    Single-precision 32-bit floating point number /n
-    [double]    Double-precision 64-bit floating point number /n
-    [DateTime]  Date and Time /n
-    [xml]       Xml object /n
-    [array]     An array of values /n
-    [hashtable] Hashtable object /n
+    [string]    Fixed-length string of Unicode characters <br />
+    [char]      A Unicode 16-bit character <br />
+    [byte]      An 8-bit unsigned character <br />
+    [int]       32-bit signed integer <br />
+    [long]      64-bit signed integer <br />
+    [bool]      Boolean True/False value <br />
+    [decimal]   A 128-bit decimal value <br />
+    [single]    Single-precision 32-bit floating point number <br />
+    [double]    Double-precision 64-bit floating point number <br />
+    [DateTime]  Date and Time <br />
+    [xml]       Xml object <br />
+    [array]     An array of values <br />
+    [hashtable] Hashtable object <br />
 
     Variable declaration examples.
     
-    [string]$abc = "Hello World"
-    [int32]$one = 10
-    [decimal]$dec = 23.444
-    [datetime]$date = Get-Date
+    [string]$abc = "Hello World" <br />
+    [int32]$one = 10 <br />
+    [decimal]$dec = 23.444 <br />
+    [datetime]$date = Get-Date <br />
 
 
 
