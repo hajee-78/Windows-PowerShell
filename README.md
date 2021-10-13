@@ -35,19 +35,19 @@
 
 5. Powershell data types.
 
-    [string]    Fixed-length string of Unicode characters
-    [char]      A Unicode 16-bit character
-    [byte]      An 8-bit unsigned character
-    [int]       32-bit signed integer
-    [long]      64-bit signed integer
-    [bool]      Boolean True/False value
-    [decimal]   A 128-bit decimal value
-    [single]    Single-precision 32-bit floating point number
-    [double]    Double-precision 64-bit floating point number
-    [DateTime]  Date and Time
-    [xml]       Xml object
-    [array]     An array of values
-    [hashtable] Hashtable object
+    [string]    Fixed-length string of Unicode characters /n
+    [char]      A Unicode 16-bit character /n
+    [byte]      An 8-bit unsigned character /n
+    [int]       32-bit signed integer /n
+    [long]      64-bit signed integer /n
+    [bool]      Boolean True/False value /n
+    [decimal]   A 128-bit decimal value /n
+    [single]    Single-precision 32-bit floating point number /n
+    [double]    Double-precision 64-bit floating point number /n
+    [DateTime]  Date and Time /n
+    [xml]       Xml object /n
+    [array]     An array of values /n
+    [hashtable] Hashtable object /n
 
     Variable declaration examples.
     
