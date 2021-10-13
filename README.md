@@ -54,6 +54,17 @@
     [int32]$one = 10 <br />
     [decimal]$dec = 23.444 <br />
     [datetime]$date = Get-Date <br />
+    
+    Output.
+    
+    PS C:\> $abc <br />
+    Hello World <br />
+    PS C:\> $one <br />
+    10 <br />
+    PS C:\> $dec <br />
+    23.444 <br />
+    PS C:\> $date <br />
+    Wednesday, October 13, 2021 9:36:23 PM
 
 
 
