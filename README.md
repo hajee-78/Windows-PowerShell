@@ -33,8 +33,28 @@
 
     Remote Computer - Invoke-Command -Computername client001 -Scriptblock {$PSVersionTable.psversion}
 
+5. Powershell data types.
 
+    [string]    Fixed-length string of Unicode characters
+    [char]      A Unicode 16-bit character
+    [byte]      An 8-bit unsigned character
+    [int]       32-bit signed integer
+    [long]      64-bit signed integer
+    [bool]      Boolean True/False value
+    [decimal]   A 128-bit decimal value
+    [single]    Single-precision 32-bit floating point number
+    [double]    Double-precision 64-bit floating point number
+    [DateTime]  Date and Time
+    [xml]       Xml object
+    [array]     An array of values
+    [hashtable] Hashtable object
 
+    Variable declaration examples.
+    
+    [string]$abc = "Hello World"
+    [int32]$one = 10
+    [decimal]$dec = 23.444
+    [datetime]$date = Get-Date
 
 
 
