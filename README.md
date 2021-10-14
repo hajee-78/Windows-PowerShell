@@ -70,9 +70,18 @@
 
     Arithmetic Operators. add (+), sub (-), mul (*), div (/) <br />
     Assignment Operators. equal to (=) <br />
-    Comparison Operators equals (eq), not equals (ne)<br />
-    Logical Operators logical and (AND), logical or (OR) <br />
+    Comparison Operators. equals (eq), not equals (ne)<br />
+    Logical Operators. logical and (AND), logical or (OR) <br />
 
+    Operator examples.
     
+    Arithmatic operators. 
+    
+    $a = 10,  $b = 20 <br />
+    $a + $b = 30 <br />
+    $a - $b = -10  <br />
+    $a * $b = 200 <br />
+    $b / $a = 2 <br />
+    $b % $a = 0 <br />
     
     
