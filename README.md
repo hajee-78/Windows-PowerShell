@@ -66,6 +66,11 @@
     PS C:\> $date <br />
     Wednesday, October 13, 2021 9:36:23 PM
 
+6. PowerShell Operators.
 
+    Arithmetic Operators
+    Assignment Operators
+    Comparison Operators
+    Logical Operators
 
 
