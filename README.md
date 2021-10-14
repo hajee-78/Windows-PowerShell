@@ -98,7 +98,7 @@
     False <br />
     $a -ne $b <br />
     True <br />
-    $b -gt $a ,br />
+    $b -gt $a <br />
     True <br />
     $b -ge $a <br />
     True <br />
