@@ -91,4 +91,17 @@
     $c += $a, $c = 40 <br />
     $c -= $a, $c = 30 <br />
     
+    Comparison operators.
+    
+    $a = 10, $b = 20 <br />
+    $a -eq $b <br />
+    False <br />
+    $a -ne $b <br />
+    True <br />
+    $b -gt $a ,br />
+    True <br />
+    $b -ge $a <br />
+    True <br />
+ 
+    
     
