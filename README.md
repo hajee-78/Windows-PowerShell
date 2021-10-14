@@ -68,9 +68,9 @@
 
 6. PowerShell Operators.
 
-    Arithmetic Operators
-    Assignment Operators
-    Comparison Operators
-    Logical Operators
+    Arithmetic Operators <br />
+    Assignment Operators <br />
+    Comparison Operators <br />
+    Logical Operators <br />
 
 
