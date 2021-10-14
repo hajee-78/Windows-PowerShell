@@ -68,9 +68,11 @@
 
 6. PowerShell Operators.
 
-    Arithmetic Operators <br />
-    Assignment Operators <br />
-    Comparison Operators <br />
-    Logical Operators <br />
+    Arithmetic Operators. add (+), sub (-), mul (*), div (/) <br />
+    Assignment Operators. equal to (=) <br />
+    Comparison Operators equals (eq), not equals (ne)<br />
+    Logical Operators logical and (AND), logical or (OR) <br />
 
-
+    
+    
+    
