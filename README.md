@@ -55,7 +55,7 @@
     [decimal]$dec = 23.444 <br />
     [datetime]$date = Get-Date <br />
     
-    Output.
+    Calling the output by variable name.
     
     PS C:\> $abc <br />
     Hello World <br />
