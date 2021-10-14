@@ -103,5 +103,12 @@
     $b -ge $a <br />
     True <br />
  
+    Logical operators.
     
-    
+    $a = 10, $b = 20 <br />
+    ($a -lt $b) -AND ($a -ne $b) -AND must satisfy both expressions on the left and right <br />
+    True    
+    ($a -lt $b) -AND ($a -gt $b) Not satisfy the expression on the right <br />
+    False
+    ($a -gt $b) -OR ($a -lt $b) -OR satisfy any one of the expression <br />
+    True
