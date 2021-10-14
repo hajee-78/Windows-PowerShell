@@ -84,4 +84,11 @@
     $b / $a = 2 <br />
     $b % $a = 0 <br />
     
+    Assignment operators.
+    
+    $a = 10, $b = 20 <br />
+    $c = $a + $b, $c = 30 <br />
+    $c += $a, $c = 40 <br />
+    $c -= $a, $c = 30 <br />
+    
     
