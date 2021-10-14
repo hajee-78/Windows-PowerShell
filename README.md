@@ -107,8 +107,8 @@
     
     $a = 10, $b = 20 <br />
     ($a -lt $b) -AND ($a -ne $b) -AND must satisfy both expressions on the left and right <br />
-    True    
+    True   <br /> 
     ($a -lt $b) -AND ($a -gt $b) Not satisfy the expression on the right <br />
-    False
+    False <br />
     ($a -gt $b) -OR ($a -lt $b) -OR satisfy any one of the expression <br />
-    True
+    True <br />
