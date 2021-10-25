@@ -37,4 +37,11 @@ dcb
 PS C:\WINDOWS\system32> Write-Host "Length of Array is" $myarray.Length
 Length of Array is 4
 
+#To get the data type
+PS C:\WINDOWS\system32> $myarray.GetType()
+
+IsPublic IsSerial Name                                     BaseType                                                                                                                           
+-------- -------- ----                                     --------                                                                                                                           
+True     True     Object[]                                 System.Array        
+
 
