@@ -57,7 +57,26 @@ PowerShell will automatically number the array elements on an X-Y grid starting 
 PS C:\WINDOWS\system32> $MultiArray[1][2]
 60
 
+#Create an empty hashtable
+$ageList = @{}
 
+#Declare variables
+$key = 'Kevin'
+$value = 36
+
+#Add variables into hashtable
+$ageList.add( $key, $value )
+
+#Add key and values into hashtable
+$ageList.add( 'Alex', 9 )
+
+#To view the output
+PS C:\WINDOWS\system32> $ageList
+
+Name                           Value                                                                                                                                                          
+----                           -----                                                                                                                                                          
+Kevin                          36                                                                                                                                                             
+Alex                           9 
 
 
 
