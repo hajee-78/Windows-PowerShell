@@ -23,4 +23,18 @@ PS C:\WINDOWS\system32> $myarray.Length
 PS C:\WINDOWS\system32> $myarray.Count
 7
 
+#Declaring array of characters
+$myarray="abc", "xyz", "pqr", "dcb"
+
+#To view the output
+PS C:\WINDOWS\system32> $myarray
+abc
+xyz
+pqr
+dcb
+
+#To write the array lenght
+PS C:\WINDOWS\system32> Write-Host "Length of Array is" $myarray.Length
+Length of Array is 4
+
 
