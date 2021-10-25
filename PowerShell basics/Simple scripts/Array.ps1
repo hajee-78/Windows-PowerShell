@@ -42,6 +42,22 @@ PS C:\WINDOWS\system32> $myarray.GetType()
 
 IsPublic IsSerial Name                                     BaseType                                                                                                                           
 -------- -------- ----                                     --------                                                                                                                           
-True     True     Object[]                                 System.Array        
+True     True     Object[]                                 System.Array      
+
+#To create a multi-dimensional array
+$MultiArray = @(("cats","dogs","ravens"),(40,50,60))
+
+PowerShell will automatically number the array elements on an X-Y grid starting at 0.
+
+ 	  0	    1   	2
+0	 cats	dogs	ravens
+1	  40	 50	   60
+
+#To access the value as per array order
+PS C:\WINDOWS\system32> $MultiArray[1][2]
+60
+
+
+
 
 
