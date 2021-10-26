@@ -26,7 +26,7 @@ for($i=1; $i -lt 10; $i++)
 8
 9
 
-#If....elseif...else example
+#If....elseif...else loop example
 if (12 -gt 13)
 { Write-Host "Yes" }
 elseif (40 -lt 30)
@@ -35,7 +35,7 @@ else
 { Write-Host "Terrible Maths" }
 Terrible Maths
 
-#Whileloop example
+#While loop example
 $numbers = 1
 while ($numbers -lt 10)
 {
@@ -47,4 +47,19 @@ The current value of the variable is 5
 The current value of the variable is 7 
 The current value of the variable is 9 
 The current value of the variable is 11
+
+#Do...While loop example
+$numbers = 0
+Do
+{
+$numbers = $numbers + 1
+write-host "The current value of the variable is $numbers."
+}
+while ($numbers -lt 6)
+The current value of the variable is 1.
+The current value of the variable is 2.
+The current value of the variable is 3.
+The current value of the variable is 4.
+The current value of the variable is 5.
+The current value of the variable is 6.
 
