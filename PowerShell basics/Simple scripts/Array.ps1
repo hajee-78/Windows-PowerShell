@@ -49,7 +49,7 @@ $MultiArray = @(("cats","dogs","ravens"),(40,50,60))
 
 PowerShell will automatically number the array elements on an X-Y grid starting at 0.
 
- 	  0	   1   2
+ 	  0	   1     2
 0	 cats	dogs	ravens
 1	  40	 50	   60
 
