@@ -51,7 +51,7 @@ PowerShell will automatically number the array elements on an X-Y grid starting 
 
  	  0	   1     2
 0	 cats	dogs	ravens
-1	  40	 50	   60
+1	  40	 50	  60
 
 #To access the value as per array order
 PS C:\WINDOWS\system32> $MultiArray[1][2]
