@@ -25,3 +25,13 @@ for($i=1; $i -lt 10; $i++)
 7
 8
 9
+
+#If....elseif...else example
+if (12 -gt 13)
+{ Write-Host "Yes" }
+elseif (40 -lt 30)
+{ Write-Host "This time, Yes" }
+else
+{ Write-Host "Terrible Maths" }
+Terrible Maths
+
