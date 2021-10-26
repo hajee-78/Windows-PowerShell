@@ -35,3 +35,16 @@ else
 { Write-Host "Terrible Maths" }
 Terrible Maths
 
+#Whileloop example
+$numbers = 1
+while ($numbers -lt 10)
+{
+ $numbers = $numbers + 2
+ Write-Host "The current value of the variable is $numbers "
+}
+The current value of the variable is 3 
+The current value of the variable is 5 
+The current value of the variable is 7 
+The current value of the variable is 9 
+The current value of the variable is 11
+
