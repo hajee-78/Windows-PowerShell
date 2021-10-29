@@ -1,0 +1,1 @@
+ Get-ADUser -Filter {enabled -eq $true} -Properties lastlogon -SearchBase "OU=xxx,OU=xxx,DC=xxx,DC=xxx,DC=xxx" | Select-Object Name, lastlogon
